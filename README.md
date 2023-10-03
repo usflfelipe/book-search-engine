@@ -51,4 +51,4 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
   * [My GitHub Profile](https://github.com/usflfelipe)
   * [My Github Project Repository](https://github.com/usflfelipe/book-search-engine)
   * [My Github Deployed IO](https://usflfelipe.github.io/book-search-engine/)
-  * Email us at: [usfl.felipe@gmail.com](mailto:usfl.felipe@gmail.com) with questions or make an issue about this project.
+  * Email me at: [usfl.felipe@gmail.com](mailto:usfl.felipe@gmail.com) with questions or make an issue about this project.
